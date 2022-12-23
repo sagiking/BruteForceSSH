@@ -11,6 +11,8 @@ you can download the module with package management system like pip:
 
 pip install paramiko
 
+This tool attack a target ip and tying to get his ssh credentials, if the tool succeed he keep the output in a file named credentials.txt. 
+
 There are various parameters you can use in the code:
 
   -h , --help            Show help message and exit
